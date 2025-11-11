@@ -1,0 +1,14 @@
+D:\Projects\pr_8\var1_pr8\bin\Debug\net8.0\var1_pr8.exe
+D:\Projects\pr_8\var1_pr8\bin\Debug\net8.0\var1_pr8.deps.json
+D:\Projects\pr_8\var1_pr8\bin\Debug\net8.0\var1_pr8.runtimeconfig.json
+D:\Projects\pr_8\var1_pr8\bin\Debug\net8.0\var1_pr8.dll
+D:\Projects\pr_8\var1_pr8\bin\Debug\net8.0\var1_pr8.pdb
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\var1_pr8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\var1_pr8.AssemblyInfoInputs.cache
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\var1_pr8.AssemblyInfo.cs
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\var1_pr8.csproj.CoreCompileInputs.cache
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\var1_pr8.dll
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\refint\var1_pr8.dll
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\var1_pr8.pdb
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\var1_pr8.genruntimeconfig.cache
+D:\Projects\pr_8\var1_pr8\obj\Debug\net8.0\ref\var1_pr8.dll

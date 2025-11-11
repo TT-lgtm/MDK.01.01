@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mJdon5fhE1M=",
+  "success": true,
+  "projectFilePath": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example2_pr8\\example2_pr8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LeraPC\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

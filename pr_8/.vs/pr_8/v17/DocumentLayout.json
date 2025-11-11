@@ -1,0 +1,255 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C04D073-1D79-4A37-9EE3-14F102BBAADA}|pr_8\\pr_8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\pr_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C04D073-1D79-4A37-9EE3-14F102BBAADA}|pr_8\\pr_8.csproj|solutionrelative:pr_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F8D3A3-A551-41BB-A581-146D16D4E5A3}|var1_pr8_2\\var1_pr8_2.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\var1_pr8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F8D3A3-A551-41BB-A581-146D16D4E5A3}|var1_pr8_2\\var1_pr8_2.csproj|solutionrelative:var1_pr8_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F8D3A3-A551-41BB-A581-146D16D4E5A3}|var1_pr8_2\\var1_pr8_2.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\var1_pr8_2\\classes\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F8D3A3-A551-41BB-A581-146D16D4E5A3}|var1_pr8_2\\var1_pr8_2.csproj|solutionrelative:var1_pr8_2\\classes\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D5B4A4-9D4C-4647-BC65-E737B1E79CE6}|var1_pr8\\var1_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\var1_pr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D5B4A4-9D4C-4647-BC65-E737B1E79CE6}|var1_pr8\\var1_pr8.csproj|solutionrelative:var1_pr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010F072-F08D-4794-A032-A0872B406F0C}|example1_pr8\\example1_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\example1_pr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A010F072-F08D-4794-A032-A0872B406F0C}|example1_pr8\\example1_pr8.csproj|solutionrelative:example1_pr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11454D7F-CB49-4723-B896-5BD65535A67B}|example2_pr8\\example2_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\example2_pr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11454D7F-CB49-4723-B896-5BD65535A67B}|example2_pr8\\example2_pr8.csproj|solutionrelative:example2_pr8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C04D073-1D79-4A37-9EE3-14F102BBAADA}|pr_8\\pr_8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\pr_8\\classes\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C04D073-1D79-4A37-9EE3-14F102BBAADA}|pr_8\\pr_8.csproj|solutionrelative:pr_8\\classes\\build.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11454D7F-CB49-4723-B896-5BD65535A67B}|example2_pr8\\example2_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\example2_pr8\\classes\\zakaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11454D7F-CB49-4723-B896-5BD65535A67B}|example2_pr8\\example2_pr8.csproj|solutionrelative:example2_pr8\\classes\\zakaz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F8D3A3-A551-41BB-A581-146D16D4E5A3}|var1_pr8_2\\var1_pr8_2.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\var1_pr8_2\\var1_pr8_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{39F8D3A3-A551-41BB-A581-146D16D4E5A3}|var1_pr8_2\\var1_pr8_2.csproj|solutionrelative:var1_pr8_2\\var1_pr8_2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D5B4A4-9D4C-4647-BC65-E737B1E79CE6}|var1_pr8\\var1_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\var1_pr8\\var1_pr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3D5B4A4-9D4C-4647-BC65-E737B1E79CE6}|var1_pr8\\var1_pr8.csproj|solutionrelative:var1_pr8\\var1_pr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11454D7F-CB49-4723-B896-5BD65535A67B}|example2_pr8\\example2_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\example2_pr8\\example2_pr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{11454D7F-CB49-4723-B896-5BD65535A67B}|example2_pr8\\example2_pr8.csproj|solutionrelative:example2_pr8\\example2_pr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A010F072-F08D-4794-A032-A0872B406F0C}|example1_pr8\\example1_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\example1_pr8\\example1_pr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A010F072-F08D-4794-A032-A0872B406F0C}|example1_pr8\\example1_pr8.csproj|solutionrelative:example1_pr8\\example1_pr8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D5B4A4-9D4C-4647-BC65-E737B1E79CE6}|var1_pr8\\var1_pr8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\var1_pr8\\classes\\parallepiped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3D5B4A4-9D4C-4647-BC65-E737B1E79CE6}|var1_pr8\\var1_pr8.csproj|solutionrelative:var1_pr8\\classes\\parallepiped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C04D073-1D79-4A37-9EE3-14F102BBAADA}|pr_8\\pr_8.csproj|d:\\github_projects\\mdk.01.01\\pr_8\\pr_8\\pr_8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C04D073-1D79-4A37-9EE3-14F102BBAADA}|pr_8\\pr_8.csproj|solutionrelative:pr_8\\pr_8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8_2\\Classes\\Figura.cs",
+              "RelativeDocumentMoniker": "var1_pr8_2\\Classes\\Figura.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8_2\\Classes\\Figura.cs",
+              "RelativeToolTip": "var1_pr8_2\\Classes\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:44:39.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "var1_pr8_2.csproj",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8_2\\var1_pr8_2.csproj",
+              "RelativeDocumentMoniker": "var1_pr8_2\\var1_pr8_2.csproj",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8_2\\var1_pr8_2.csproj",
+              "RelativeToolTip": "var1_pr8_2\\var1_pr8_2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T01:44:05.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8_2\\Program.cs",
+              "RelativeDocumentMoniker": "var1_pr8_2\\Program.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8_2\\Program.cs",
+              "RelativeToolTip": "var1_pr8_2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T01:43:11.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "example1_pr8.csproj",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example1_pr8\\example1_pr8.csproj",
+              "RelativeDocumentMoniker": "example1_pr8\\example1_pr8.csproj",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example1_pr8\\example1_pr8.csproj",
+              "RelativeToolTip": "example1_pr8\\example1_pr8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T00:16:19.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example1_pr8\\Program.cs",
+              "RelativeDocumentMoniker": "example1_pr8\\Program.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example1_pr8\\Program.cs",
+              "RelativeToolTip": "example1_pr8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:16:13.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zakaz.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example2_pr8\\Classes\\Zakaz.cs",
+              "RelativeDocumentMoniker": "example2_pr8\\Classes\\Zakaz.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example2_pr8\\Classes\\Zakaz.cs",
+              "RelativeToolTip": "example2_pr8\\Classes\\Zakaz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:12:48.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "example2_pr8.csproj",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example2_pr8\\example2_pr8.csproj",
+              "RelativeDocumentMoniker": "example2_pr8\\example2_pr8.csproj",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example2_pr8\\example2_pr8.csproj",
+              "RelativeToolTip": "example2_pr8\\example2_pr8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-11T00:11:55.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example2_pr8\\Program.cs",
+              "RelativeDocumentMoniker": "example2_pr8\\Program.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\example2_pr8\\Program.cs",
+              "RelativeToolTip": "example2_pr8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T00:11:00.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8\\Program.cs",
+              "RelativeDocumentMoniker": "var1_pr8\\Program.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8\\Program.cs",
+              "RelativeToolTip": "var1_pr8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:15:39.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "var1_pr8.csproj",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8\\var1_pr8.csproj",
+              "RelativeDocumentMoniker": "var1_pr8\\var1_pr8.csproj",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8\\var1_pr8.csproj",
+              "RelativeToolTip": "var1_pr8\\var1_pr8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T23:15:59.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Parallepiped.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8\\Classes\\Parallepiped.cs",
+              "RelativeDocumentMoniker": "var1_pr8\\Classes\\Parallepiped.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\var1_pr8\\Classes\\Parallepiped.cs",
+              "RelativeToolTip": "var1_pr8\\Classes\\Parallepiped.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T23:18:35.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\pr_8\\Program.cs",
+              "RelativeDocumentMoniker": "pr_8\\Program.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\pr_8\\Program.cs",
+              "RelativeToolTip": "pr_8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:15:23.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "pr_8.csproj",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\pr_8\\pr_8.csproj",
+              "RelativeDocumentMoniker": "pr_8\\pr_8.csproj",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\pr_8\\pr_8.csproj",
+              "RelativeToolTip": "pr_8\\pr_8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T22:20:52.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Build.cs",
+              "DocumentMoniker": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\pr_8\\Classes\\Build.cs",
+              "RelativeDocumentMoniker": "pr_8\\Classes\\Build.cs",
+              "ToolTip": "D:\\GitHub_Projects\\MDK.01.01\\pr_8\\pr_8\\Classes\\Build.cs",
+              "RelativeToolTip": "pr_8\\Classes\\Build.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T22:23:50.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

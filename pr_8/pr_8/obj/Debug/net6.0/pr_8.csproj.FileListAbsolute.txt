@@ -1,0 +1,14 @@
+D:\Projects\pr_8\pr_8\bin\Debug\net6.0\pr_8.exe
+D:\Projects\pr_8\pr_8\bin\Debug\net6.0\pr_8.deps.json
+D:\Projects\pr_8\pr_8\bin\Debug\net6.0\pr_8.runtimeconfig.json
+D:\Projects\pr_8\pr_8\bin\Debug\net6.0\pr_8.dll
+D:\Projects\pr_8\pr_8\bin\Debug\net6.0\pr_8.pdb
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\pr_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\pr_8.AssemblyInfoInputs.cache
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\pr_8.AssemblyInfo.cs
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\pr_8.csproj.CoreCompileInputs.cache
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\pr_8.dll
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\refint\pr_8.dll
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\pr_8.pdb
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\pr_8.genruntimeconfig.cache
+D:\Projects\pr_8\pr_8\obj\Debug\net6.0\ref\pr_8.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "example1_pr8": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

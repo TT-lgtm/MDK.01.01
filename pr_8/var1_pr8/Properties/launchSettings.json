@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "var1_pr8": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
